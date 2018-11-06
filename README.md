@@ -1,2 +1,7 @@
 # SDN--Documentation
 This provide all information about this on going project
+Network technologies have been dominated by traditional paradigms resulting from the TCP/IP model and local networks, centered on traditional switching and routing concepts. The current network complexity at the data center, local and operator levels present new management challenges and flexibility requirements. The SDN paradigm emerged to tackle these challenges. 
+ 
+The main goal of SDN is to separate the control plane from the data plane, which are usually tied together in conventional network devices, in such way that these can be managed, controlled  and monitored by custom applications, enabling increased network flexibility, independently of proprietary solutions. Open Flow is one of the communication protocols based on the SDN paradigm, which defines a communication between the data plane and the control plane. 
+ 
+Objective of this project is to build an SDN Testbed for educational and research purposes in order to facilitate the comprehension about Programmable Network using commodity embedded hardware (e.g.: PCs, servers, NetFPGA). The ultimate target here is to make an emulation tool which offers a visualization of traffic flows and several advanced network functionalities like network slicing, dynamic resource allocation and Network Functions Virtualization (NFV), that could be used as a teaching aid, as well as a research testbed
